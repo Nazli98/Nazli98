@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nazli
+- 👋 Hi, I’m Nazli (Leslie)
 - 👀 I’m interested in Mathematics, Machine Learning and Deep Learning
 - 🌱 I’m currently learning Convolutional Neural Network 
 - 📫 How to reach me mehrabi.nazli@gmail.com
