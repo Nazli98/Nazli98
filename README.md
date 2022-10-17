@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Nazli
-- 👀 I’m interested in ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Mathematics, Machine Learning and Deep Learning
+- 🌱 I’m currently learning Convolutional Neural Network 
+- 📫 How to reach me mehrabi.nazli@gmail.com
 
 <!---
 Nazli98/Nazli98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
